@@ -11,6 +11,7 @@ export const metadata = {
     url: 'https://jaipurhealthclub.com',
     siteName: 'Jaipur Health Club',
     locale: 'en_IN',
+    viewport: "width=device-width, initial-scale=1, maximum-scale=1",
     type: 'website'
   },
   metadataBase: new URL('https://jaipurhealthclub.com')
